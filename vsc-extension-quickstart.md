@@ -1,3 +1,0 @@
-# FluentBlue VS Code Theme
-
-
