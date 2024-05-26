@@ -4,7 +4,7 @@
   "description": "All Blue!",
   "version": "0.0.1",
   "publisher": "maltarouti",
-  "icon":"images/icon.png",
+  "icon":"icon.png",
   "sponsor": {
     "url": "https://github.com/sponsors/maltarouti"
   },
