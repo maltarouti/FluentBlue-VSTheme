@@ -1,8 +1,13 @@
 {
   "name": "fluentblue",
   "displayName": "FluentBlue",
-  "description": "FluentBlue",
+  "description": "All Blue!",
   "version": "0.0.1",
+  "publisher": "maltarouti",
+  "icon":"images/icon.png",
+  "sponsor": {
+    "url": "https://github.com/sponsors/maltarouti"
+  },
   "engines": {
     "vscode": "^1.89.0"
   },
